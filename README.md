@@ -20,7 +20,21 @@
 </table>
 </p>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
+<div align="center">
+  
+  <table class="stats-table" style="font-size:0.92em;">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/T-S-Liang/github-stats/master/generated/overview.svg" style="max-width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/T-S-Liang/github-stats/master/generated/languages.svg" style="max-width:100%;height:auto;">
+      </td>
+    </tr>
+  </table>
+
+  <br />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+
+</div>
