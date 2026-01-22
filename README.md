@@ -6,6 +6,8 @@
 - 🌱 I’m interested in Computer Vision, Hardware Efficient AI, and Multi-modality Models.
 - 📮 Reach me by sliang57@connect.hku.hk & tsliang2001@gmail.com
 
+
+<p align="center">
 <table class="stats-table" style="font-size:0.92em;">
   <tr>
     <td align="center">
@@ -16,6 +18,7 @@
     </td>
   </tr>
 </table>
+</p>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
