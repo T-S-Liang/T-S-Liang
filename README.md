@@ -27,4 +27,6 @@
 </div>
 
 ## Selected Projects
+** Generalizable Perception **
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-S-Liang&repo=SDPose-OOD&description_lines_count=2)](https://github.com/T-S-Liang/SDPose-OOD)
+** Hardware Efficient AI **
