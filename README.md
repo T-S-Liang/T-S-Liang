@@ -1,16 +1,16 @@
-## Hi there 👋
-
 <!--
-**T-S-Liang/T-S-Liang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Tim (Shuang) Liang, I'm currently a second year Ph.D. student at Dept. of EEE, The University of Hong Kong.
+- 🌱 I’m interested in Computer Vision, Hardware Efficient AI, and Multi-modality Models.
+- 📮 Reach me by sliang57@connect.hku.hk & tsliang2001@gmail.com
 -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-S-Liang&layout=compact" alt="Top Langs">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
