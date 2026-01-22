@@ -1,5 +1,10 @@
 ### Greetings! This is Tim (Shuang) Liang.
-[![GScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L236mPUAAAAJ&hl=en)
+<div align="center">
+
+  [![GScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L236mPUAAAAJ&hl=en)
+  [![Website](https://img.shields.io/badge/Personal%20Website-333333?style=for-the-badge&logo=safari&logoColor=white)](https://tsliang.top/)
+
+</div>
 
 ## About Me
 - 🎓 I'm currently a second year Ph.D. student at the Department of Electrical and Electronic Engineering, The University of Hong Kong.
