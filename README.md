@@ -6,20 +6,6 @@
 - 🌱 I’m interested in Computer Vision, Hardware Efficient AI, and Multi-modality Models.
 - 📮 Reach me by sliang57@connect.hku.hk & tsliang2001@gmail.com
 
-
-<p align="center">
-<table class="stats-table" style="font-size:0.92em;">
-  <tr>
-    <td align="center">
- <img src="https://raw.githubusercontent.com/T-S-Liang/github-stats/master/generated/overview.svg" style="max-width:100%;height:auto;">
-    </td>
-    <td align="center">
-  <img src="https://raw.githubusercontent.com/T-S-Liang/github-stats/master/generated/languages.svg" style="max-width:100%;height:auto;">
-    </td>
-  </tr>
-</table>
-</p>
-
 <div align="center">
   
   <table class="stats-table" style="font-size:0.92em;">
