@@ -2,7 +2,7 @@
 
   [![GScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L236mPUAAAAJ&hl=en)
   [![Website](https://img.shields.io/badge/Personal%20Website-333333?style=for-the-badge&logo=safari&logoColor=white)](https://tsliang.top/)
-
+  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/teemosliang)
 ## About Me
 - 🎓 I'm currently a second year Ph.D. student at the Department of Electrical and Electronic Engineering, The University of Hong Kong.
 - 🌱 I’m interested in Computer Vision, Hardware-Efficient AI, and Multimodal Learning.
