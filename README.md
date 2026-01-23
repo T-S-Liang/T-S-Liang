@@ -1,7 +1,7 @@
 ### Greetings! This is Tim (Shuang) Liang.
 
   [![GScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L236mPUAAAAJ&hl=en)
-  [![Website](https://img.shields.io/badge/Personal%20Website-333333?style=for-the-badge&logo=safari&logoColor=white)](https://tsliang.top/)
+  [![Website](https://img.shields.io/badge/Personal%20Website-181717?style=for-the-badge&logo=safari&logoColor=white)](https://tsliang.top/)
   [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/teemosliang)
   [![X (Twitter)](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tsliang57)
   
