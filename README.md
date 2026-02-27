@@ -6,7 +6,7 @@
   [![X (Twitter)](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tsliang57)
   
 ## About Me
-- 🎓 I'm currently a second year Ph.D. student at the Department of Electrical and Electronic Engineering, The University of Hong Kong.
+- 🎓 I'm currently a second year Ph.D. student at the Department of Electrical and Computer Engineering, The University of Hong Kong.
 - 🌱 I’m interested in Computer Vision, Hardware-Efficient AI, and Multimodal Learning.
 - 📮 Reach me by sliang57@connect.hku.hk & tsliang2001@gmail.com
 
