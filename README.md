@@ -7,7 +7,7 @@
   
 ## About Me
 - 🎓 I'm currently a second year Ph.D. student at the Department of Electrical and Computer Engineering, The University of Hong Kong.
-- 🌱 I’m interested in Computer Vision, Hardware-Efficient AI, and Multimodal Learning.
+- 🌱 I’m interested in Computer Vision, Representation Learning, and Hardware-Efficient AI.
 - 📮 Reach me by sliang57@connect.hku.hk & tsliang2001@gmail.com
 
 ## GitHub Stats
