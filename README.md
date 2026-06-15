@@ -30,10 +30,11 @@
 
 ## Selected Projects
 
-**Generalizable Perception based on Generative Priors**
+**Representation Learning and Adaptation with Vision Foundation Models**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-S-Liang&repo=SDPose-OOD&description_lines_count=2)](https://github.com/T-S-Liang/SDPose-OOD)
 
+**Evaluation Benchmarks**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-S-Liang&repo=CAFE&description_lines_count=2)](https://github.com/T-S-Liang/CAFE)
 
 **Hardware Efficient AI based on Linear Attention**
