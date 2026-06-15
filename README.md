@@ -1,4 +1,4 @@
-### Greetings! This is Tim (Shuang) Liang.
+### Greetings! This is Tim.
 
   [![GScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L236mPUAAAAJ&hl=en)
   [![Website](https://img.shields.io/badge/Personal%20Website-e05430?style=for-the-badge&logo=safari&logoColor=white)](https://tsliang.top/)
