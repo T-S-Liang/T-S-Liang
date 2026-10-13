@@ -6,7 +6,7 @@
   [![X (Twitter)](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tsliang57)
   
 ## About Me
-- 🎓 I'm currently a second year Ph.D. student at the Department of Electrical and Computer Engineering, The University of Hong Kong.
+- 🎓 I'm currently a Ph.D. student at the Department of Electrical and Computer Engineering, The University of Hong Kong.
 - 🌱 I’m interested in Computer Vision, Representation Learning, and Generative Models.
 - 📮 Reach me by sliang57@connect.hku.hk & tsliang2001@gmail.com
 
@@ -27,18 +27,3 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </div>
-
-## Selected Projects
-
-**Representation Learning and Adaptation with Vision Foundation Models**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-S-Liang&repo=SDPose-OOD&description_lines_count=2)](https://github.com/T-S-Liang/SDPose-OOD)
-
-**Evaluation Benchmarks**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-S-Liang&repo=CAFE&description_lines_count=2)](https://github.com/T-S-Liang/CAFE)
-
-**Hardware Efficient AI**
-
-Coming soon!
-
